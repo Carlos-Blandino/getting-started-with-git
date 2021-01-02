@@ -1,1 +1,1 @@
-#Getting Started with Gitd
+# Getting Started with Git
